@@ -1,0 +1,18 @@
+{
+  "MB100": {
+    "buildingName": "Main Building",
+    "roomNumber": 100
+  },
+  "MB101": {
+    "buildingName": "Main Building",
+    "roomNumber": 101
+  },
+  "MB102": {
+    "buildingName": "Main Building",
+    "roomNumber": 102
+  },
+  "MB103": {
+    "buildingName": "Main Building",
+    "roomNumber": 103
+  }
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "name": "John Doe",
+    "schedule": [
+      {
+        "location": "Pratt 204",
+        "teacher": "Dr. Brown",
+        "contactInfo": "brown@university.com",
+        "startTime": "08:00",
+        "endTime": "09:00"
+      },
+      {
+        "location": "Pratt Art Wing 109",
+        "teacher": "Prof. Lee",
+        "contactInfo": "lee@university.com",
+        "startTime": "10:00",
+        "endTime": "11:00"
+      }
+    ]
+  },
+  {
+    "name": "Jane Smith",
+    "schedule": [
+      {
+        "location": "Pratt 204",
+        "teacher": "Dr. Brown",
+        "contactInfo": "brown@university.com",
+        "startTime": "08:00",
+        "endTime": "09:00"
+      },
+      {
+        "location": "Morrison Forum",
+        "teacher": "Dr. Williams",
+        "contactInfo": "williams@university.com",
+        "startTime": "11:00",
+        "endTime": "12:00"
+      }
+    ]
+  },
+  {
+    "name": "Bob Lee",
+    "schedule": [
+      {
+        "location": "Pratt 204",
+        "teacher": "Dr. Brown",
+        "contactInfo": "brown@university.com",
+        "startTime": "08:00",
+        "endTime": "09:00"
+      },
+      {
+        "location": "Morrison Forum",
+        "teacher": "Dr. Williams",
+        "contactInfo": "williams@university.com",
+        "startTime": "11:00",
+        "endTime": "12:00"
+      }
+    ]
+  }
+]
